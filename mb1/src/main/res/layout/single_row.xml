@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:baselineAligned="false">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:orientation="horizontal"
+    android:background="@drawable/card_light_green"
+    android:paddingTop="3dp"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp">
+
+
+
+    <ImageView
+        android:layout_gravity="center"
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        app:srcCompat="@drawable/map_marker_dark"
+
+        android:id="@+id/userimg"
+        android:layout_weight="0.1" />
+
+    <TextView
+        android:text="..."
+        android:background="?attr/selectableItemBackgroundBorderless"
+android:gravity="center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/usertxt"
+        android:layout_weight="1"
+        android:textSize="20sp"
+        android:textAlignment="center" />
+    <ImageView
+        android:layout_gravity="center_vertical"
+        android:layout_width="35dp"
+        android:layout_height="28dp"
+        app:srcCompat="@drawable/ic_arrow_head"
+        android:id="@+id/leftarrow" />
+    </LinearLayout>
+</LinearLayout>

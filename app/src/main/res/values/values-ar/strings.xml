@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">إرشاد</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="btn_send_message">Send Message</string>
+
+    <!-- Activity titles -->
+    <string name="activity_location_found">Location Found</string>
+
+    <!-- Action Bar action items -->
+    <string name="action_search">Search</string>
+    <string name="action_back">Back</string>
+    <string name="action_location_found">Location Found</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_contacts">Contacts</string>
+    <string name="action_help">Help</string>
+    <string name="action_check_updates">Check for Updates</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="slide_1_title">Delivery Numbers!</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+
+    <string name="slide_2_title">Cinemas Booking</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+
+    <string name="slide_3_title">Best Calls Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">Airlines Agencies</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <!-- Search  -->
+    <string name="search_hint">Search color..</string>
+    <string name="spinner_prompt">إختر ..</string>
+    <string-array name="state">
+        <item>الخرطوم</item>
+        <item>الجزيرة</item>
+        <item>نهر النيل</item>
+
+    </string-array>
+    <string-array name="local">
+        <item>الخرطوم</item>
+        <item>امدرمان</item>
+        <item>بحري</item>
+
+    </string-array>
+    <string-array name="city">
+        <item>بري</item>
+        <item>اركويت</item>
+        <item>المعمورة</item>
+
+    </string-array>
+    <string-array name="block">
+        <item>مربع 1</item>
+        <item>مربع 2</item>
+        <item>مربع 3</item>
+
+    </string-array>
+    <string-array name="sectors">
+        <item>الخرطوم</item>
+        <item>بحري</item>
+        <item>امدرمان</item>
+
+    </string-array>
+    <string-array name="gas_list">
+        <item>إختر المحطة المعنية</item>
+        <item>محطة 1</item>
+        <item>محطة 2</item>
+        <item>محطة 3</item>
+        <item>محطة 4</item>
+        <item>محطة 5</item>
+        <item>محطة 6</item>
+        <item>محطة 7</item>
+        <item>محطة 4</item>
+        <item>محطة 5</item>
+        <item>محطة 6</item>
+        <item>محطة 7</item>
+    </string-array>
+    <string-array name="users_list">
+        <item>رئاسة مصلحة الاراضي</item>
+        <item> اراضي المغتربين</item>
+        <item> اراضي الخرطوم</item>
+        <item> اراضي جنوب الخرطوم</item>
+        <item> اراضي جبل اولياء</item>
+        <item>الاستثمار العقاري</item>
+        <item>الاستثمار الصنلعي</item>
+    </string-array>
+    <string name="title_activity_add_user">AddUser</string>
+    <string name="title_activity_user">userActivity</string>
+    <string name="title_activity_fuel">عادل لخدمات الوقود</string>
+    <string name="title_activity_add_fuel">عادل لخدمات الوقود</string>
+    <string name="title_activity_cards">عادل لخدمات الوقود</string>
+    <string name="title_activity_user_data">UserDataActivity</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="title_activity_web_">Web_Activity</string>
+    <string name="title_activity_offices">Offices</string>
+    <string name="title_activity_map">ActivityMap</string>
+
+    <string name="access_token">pk.eyJ1IjoibWVnYW9zYW1hIiwiYSI6ImNqazNzaWlodzBjaXUza214cmhzODYwN3MifQ.eunaP_INL8yQVJDygZDpbg</string>
+    <string name="user_location_permission_explanation">يحتاج هذا التطبيق إلى أذونات الموقع لإظهار وظائفه.</string>
+    <string name="user_location_permission_not_granted">لم تمنح أذونات الموقع.</string>
+    <string name="calculating_destination">جاري حساب الوجهة ...</string>
+    <string name="start_navigate">إبداء القيادة</string>
+</resources>
