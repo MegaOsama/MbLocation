@@ -1,8 +1,6 @@
 apply plugin: 'com.android.library'
-
 apply plugin: 'com.github.dcendents.android-maven'
-//apply plugin: 'com.android.library'
-
+apply plugin: 'maven'
 group = 'com.apps.sam.mb1'
 version = '1.0'
 
@@ -11,6 +9,7 @@ uploadArchives {
         mavenLocal()
     }
 }
+
 
 android {
     compileSdkVersion 28
